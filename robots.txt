@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pk947.github.io/SFT-PRACTICAL/sitemap.xml
+Sitemap: https://pk947.github.io/SciLab/sitemap.xml
