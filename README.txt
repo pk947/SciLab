@@ -1,6 +1,6 @@
 SciLab website - upload everything in this folder to your host (keep the folder structure).
 
-1. Replace  https://pk947.github.io/SFT-PRACTICAL  with your real address in ALL files
+1. Replace  https://pk947.github.io/SciLab/  with your real address in ALL files
    (index.html, sitemap.xml, robots.txt and every file in practicals/).
    Tip: VS Code > Edit > Replace in Files.
 2. The main page must be named index.html (it already is).
